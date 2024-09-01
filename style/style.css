@@ -131,4 +131,33 @@
 #name {
     height: 25px;
     width: 50%;
+    margin-bottom: 20px;
+}
+
+#email {
+    height: 25px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#assunto {
+    height: 25px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#mensagem {
+    height: 120px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#enviar-mesagem {
+    text-align: center;
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    background: #0ff;
+    color: #fff;
+    
 }
