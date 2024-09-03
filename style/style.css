@@ -159,5 +159,20 @@
     border-radius: 5px;
     background: #0ff;
     color: #fff;
-    
+}
+
+.final {
+    background: #000;
+    color: #fff;
+}
+
+.final ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px 0 10px;
+}
+
+.final ul li a {
+    color: #fff;
+    text-decoration: none;
 }
