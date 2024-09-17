@@ -157,13 +157,14 @@
     width: 200px;
     height: 25px;
     border-radius: 5px;
-    background: #0ff;
+    background: #000;
     color: #fff;
 }
 
 .final {
     background: #000;
     color: #fff;
+    position: relative;
 }
 
 .final ul li {
@@ -175,4 +176,5 @@
 .final ul li a {
     color: #fff;
     text-decoration: none;
+    position: relative;
 }
