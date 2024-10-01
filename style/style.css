@@ -28,11 +28,12 @@ nav {
 } */
 
 .navbar-list {
-    position: absolute;
+    position:absolute;
     right: 0px;
     line-height: 1px;
     height: 1px;
-    margin: 0;
+    margin:  0 10px 0 -20px ;
+    
     display: inline-block;
 }
 
@@ -189,10 +190,16 @@ nav {
     position: relative;
 }
 
+.final-navbar {
+    display: flexbox;
+    /* position: absolute; */
+}
+
 .final ul li {
-    display: inline-block;
+    display: inline-flex;
     text-align: center;
     padding: 0 10px 0 10px;
+    justify-content: center;
 }
 
 .final ul li a {
