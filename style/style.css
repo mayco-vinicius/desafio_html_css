@@ -109,7 +109,7 @@ nav {
     text-align: center;
     padding-top: 100px;
     background-color: #fff;
-    box-shadow:  10px 10px 0 #221e1e;
+    box-shadow: 5px 5px 15px 0px #221e1e;
     
 }
 
@@ -120,7 +120,7 @@ nav {
     height: 150px;
     text-align: center;
     padding-top: 100px;
-    box-shadow: 10px 10px 0 #221e1e;
+    box-shadow: 5px 5px 15px 0px #221e1e ;
 }
 
 .container-nuvem {
@@ -129,9 +129,8 @@ nav {
     height: 100px;
     text-align: center;
     margin: 0px 300px 200px 300px;
-    box-shadow: 10px 10px 0 #221e1e;
+    box-shadow: 5px 5px 15px 0px #221e1e;
     padding: 100px 0 50px 0;
-    /* padding-bottom: 50px; */
 }
 
 .container-contato {
